@@ -7,7 +7,7 @@ namespace Fortress.Game
     public static class Stock
     {
 #if UNITY_EDITOR || DEVELOPMENT_BUILD
-        /// Andre's own builds: gun from the start and building costs nothing. Mining still counts up.
+        /// Development builds: gun from the start and building costs nothing. Mining still counts up.
         public const bool Unlimited = true;
 #else
         public const bool Unlimited = false;
