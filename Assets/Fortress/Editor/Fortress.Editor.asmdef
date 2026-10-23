@@ -1,0 +1,5 @@
+{
+  "name": "Fortress.Editor",
+  "references": ["Fortress.Game", "Fortress.Building", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Editor"],
+  "includePlatforms": ["Editor"]
+}

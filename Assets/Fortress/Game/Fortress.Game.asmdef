@@ -1,0 +1,4 @@
+{
+  "name": "Fortress.Game",
+  "references": ["Fortress.Building", "Unity.InputSystem", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime", "UnityEngine.UI"]
+}

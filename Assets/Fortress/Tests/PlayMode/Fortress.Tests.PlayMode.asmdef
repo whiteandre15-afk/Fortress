@@ -1,0 +1,17 @@
+{
+  "name": "Fortress.Tests.PlayMode",
+  "references": [
+    "Fortress.Game",
+    "Fortress.Building",
+    "UnityEngine.TestRunner",
+    "Unity.InputSystem"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "autoReferenced": false
+}
